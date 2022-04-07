@@ -374,7 +374,7 @@
     }
     .style-two.header-menu-section .search-box-btn.search-box-outer i {
         margin-left: -40px;
-        background: #D00A2B;
+        background: #fff;
         text-align: center;
         padding: 10px 13px;
         color: #fff;
@@ -1730,7 +1730,7 @@ button.btn-control {
     padding: 12px 18px;
 }
 .about-icon i {
-    color: #d00a2b;
+    color: #45CBD2;
     font-size: 20px;
 }
 .slider-video-icon {
@@ -2187,7 +2187,7 @@ input.blog-control {
 
 @media (max-width: 991px) {
 .mobile-menu {
-    background: #D00A2B;
+    background: #fff;
     padding: 0 35px 0 10px;
 }
 a.mobile-logo {
@@ -2218,7 +2218,7 @@ a.mobile-logo {
     margin-right: -104px;
 }
 .icon {
-    color: #fff;
+    color: #1A45AB;
     font-size: 25px;
 }
 i.fas.fa-times {
@@ -2303,7 +2303,7 @@ ul.sub-menu2 {
     display: none !important;
 }
 .mobile-menu {
-    background: #D00A2B;
+    background: #fff;
     padding: 0 35px 0 10px;
     display: block;
 }
