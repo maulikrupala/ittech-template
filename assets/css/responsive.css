@@ -670,9 +670,6 @@ a.menu-logo {
     font-size: 55px;
     margin-top: -30px;
 }
-.slider-circle-thumb.rotateme {
-    top: 25%;
-}
 .about-video-icon a {
     width: 65px;
     height: 65px;
@@ -1538,10 +1535,6 @@ a.menu-logo {
 }
 .slider-content h2 {
     font-size: 30px;
-}
-.slider-circle-thumb.rotateme {
-    top: 19%;
-    right: 14%;
 }
 .slider-button a {
     margin-bottom: 75px;
