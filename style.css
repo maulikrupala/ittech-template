@@ -2400,12 +2400,6 @@ a.btn2 i {
     width: 65%;
     margin: 8px 0 0;
 }
-.style-two.feature-section .feature-shape {
-    position: absolute;
-    right: 255px;
-    bottom: 148px;
-    z-index: -1;
-}
 /* Style-Three */
 .style-three.feature-section {
     padding-top: 0px;

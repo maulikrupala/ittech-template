@@ -16,16 +16,9 @@
 		left: 20px;
 		width: 70%;
 	}
-    .style-two.feature-section .feature-shape {
-        right: 47px;
-    }
     .row.skill-bg {
         margin-left: 83px;
     }
-    .style-two.feature-section .feature-shape {
-        right: 24px;
-        bottom: 85px;
-    } 
     button.btn-control {
         bottom: 33%;
         margin-bottom: -12px;
@@ -128,10 +121,6 @@
     }
     .service-content p {
         width: 82%;
-    }
-    .style-two.feature-section .feature-shape {
-        right: -22px;
-        bottom: 204px;
     }
     .style-two.feature-section .feature-content p {
         width: 80%;
@@ -404,9 +393,6 @@
     }
     .style-two.service-section .service-single-box:after {
         left: 50px;
-    }
-    .style-two.feature-section .feature-shape {
-        display: none;
     }
     .style-two.feature-section .feature-thumb img {
         width: 100%;
@@ -769,9 +755,6 @@ button.btn-control {
 }
 .style-two.call-do-action .call-thumb {
     margin-left: -45px;
-}
-.style-two.feature-section .feature-shape {
-    display: none;
 }
 .dreamit-portfolio-thumb:before {
     width: 100%;
@@ -1248,9 +1231,6 @@ button.btn-control {
     display: block;
     text-align: center;
     margin-top: 30px;
-}
-.style-two.feature-section .feature-shape {
-    display: none;
 }
 .pricing-items {
     margin-bottom: 30px;
@@ -1744,9 +1724,6 @@ button.btn-control {
 }
 .style-two.feature-section .feature-thumb img {
     width: 100%;
-}
-.style-two.feature-section .feature-shape {
-    display: none;
 }
 .dreamit-portfolio-thumb img {
     width: 100%;
