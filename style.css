@@ -22,7 +22,7 @@
     animation: jump 4s infinite;
 }
 .header-top-section {
-    padding: 10px 0;
+    padding: 4px 0;
     background: #14212b;
 }
 .dreamit-top-address span {
@@ -240,7 +240,7 @@
     color: #fff;
     font-family: Rajdhani;
     font-weight: 600;
-    padding: 12px 32px;
+    padding: 8px 11px;
     text-transform: uppercase;
     margin-left: 19px;
     transition: 0.5s;
@@ -353,7 +353,7 @@
 }
 /* Style-Two */
 .style-two.header-menu-section {
-    padding: 23px 0 28px;
+    padding: 10px 0 28px;
     margin-bottom: -154px;
 }
 .header-bg-2 {
@@ -369,7 +369,7 @@
     z-index: 9;
     position: relative;
     padding: 22px 0 22px;
-    margin-bottom: -43px;
+    /* margin-bottom: -43px; */
 }
 .style-two.header-menu-section .header-logo a {
     margin-left: 18px;
